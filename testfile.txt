@@ -3,4 +3,8 @@ Modified.
 Added SSH connectivity
 
 Test Revert 1
+<<<<<<< Updated upstream
 changes after executing stash
+=======
+before stash
+>>>>>>> Stashed changes
